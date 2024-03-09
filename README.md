@@ -19,11 +19,11 @@
 
 ## Preview
 
-![Preview Gif](/Sampling_Theory_Studio/screen_shots/image.png)
-![Preview Gif](/Sampling_Theory_Studio/screen_shots/image_2.png)
-![Preview Gif](/Sampling_Theory_Studio/screen_shots/image_3.png)
-![Preview Gif](/Sampling_Theory_Studio/screen_shots/image_4.png)
-![Preview Gif](/Sampling_Theory_Studio/screen_shots/image_5.png)
+![Preview Gif](/interactive_sampling_studio/screen_shots/image.png)
+![Preview Gif](/interactive_sampling_studio/screen_shots/image_2.png)
+![Preview Gif](/interactive_sampling_studio/screen_shots/image_3.png)
+![Preview Gif](/interactive_sampling_studio/screen_shots/image_4.png)
+![Preview Gif](/interactive_sampling_studio/screen_shots/image_5.png)
 
 
 
