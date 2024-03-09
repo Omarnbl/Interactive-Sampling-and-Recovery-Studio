@@ -26,38 +26,26 @@
 ![Preview Gif](interactive_sampling_studio/Sampling_Theory_Studio/screen_shots/image_5.png)
 
 
-
 ## Team Members
 <div align="left">
-  <div>
-    <a href="https://github.com/OmarEmad101">
-      <img src="https://github.com/OmarEmad101.png" width="100px" alt="@OmarEmad101">
-    </a>
-    <div>Omar Emad</div>
-  </div>
-  
-  <div>
-    <a href="https://github.com/Omarnbl">
-      <img src="https://github.com/Omarnbl.png" width="100px" alt="@Omarnbl">
-    </a>
-    <div>Omar Nabil</div>
-  </div>
-  
-  <div>
-    <a href="https://github.com/KhaledBadr07">
-      <img src="https://github.com/KhaledBadr07.png" width="100px" alt="@KhaledBadr07">
-    </a>
-    <div>Khaled Badr</div>
-  </div>
-  
-  <div>
-    <a href="https://github.com/merna-abdelmoez">
-      <img src="https://github.com/merna-abdelmoez.png" width="100px" alt="@merna-abdelmoez">
-    </a>
-    <div>Mirna Abdelmoez</div>
-  </div>
+  <a href="https://github.com/OmarEmad101">
+    <img src="https://github.com/OmarEmad101.png" width="100px" alt="@AhmeddEmad7">
+  </a>
+  <a href="https://github.com/Omarnbl">
+    <img src="https://github.com/Omarnbl.png" width="100px" alt="@hazemzakariasaad">
+  </a>
+  <a href="https://github.com/KhaledBadr07">
+    <img src="https://github.com/KhaledBadr07.png" width="100px" alt="@nourhan-ahmedd">
+  </a>
+  <a href="https://github.com/merna-abdelmoez">
+    <img src="https://github.com/merna-abdelmoez.png" width="100px" alt="@raghdaneiazy6">
+  </a>
 </div>
 
+## Acknowledgments
 
+**This project was supervised by Dr. Tamer Basha & Eng. Abdallah Darwish, who provided invaluable guidance and expertise throughout its development as a part of the Digital Signal Processing course at Cairo University Faculty of Engineering.**
 
-
+<div style="text-align: right">
+    <img src="https://imgur.com/Wk4nR0m.png" alt="Cairo University Logo" width="100" style="border-radius: 50%;"/>
+</div>
