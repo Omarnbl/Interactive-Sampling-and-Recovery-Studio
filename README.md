@@ -30,16 +30,33 @@
 ## Team Members
 
 <div align="left">
-  <a href="https://github.com/OmarEmad101">
-    <img src="https://github.com/OmarEmad101.png" width="100px" alt="@AhmeddEmad7">
-  </a>
-  <a href="https://github.com/Omarnbl">
-    <img src="https://github.com/Omarnbl.png" width="100px" alt="@hazemzakariasaad">
-  </a>
-  <a href="https://github.com/KhaledBadr07">
-    <img src="https://github.com/KhaledBadr07.png" width="100px" alt="@nourhan-ahmedd">
-  </a>
-  <a href="https://github.com/merna-abdelmoez">
-    <img src="https://github.com/merna-abdelmoez.png" width="100px" alt="@raghdaneiazy6">
-  </a>
+  <div>
+    <a href="https://github.com/OmarEmad101">
+      <img src="https://github.com/OmarEmad101.png" width="100px" alt="@OmarEmad101">
+    </a>
+    <br>
+    Omar Emad
+  </div>
+  <div>
+    <a href="https://github.com/Omarnbl">
+      <img src="https://github.com/Omarnbl.png" width="100px" alt="@Omarnbl">
+    </a>
+    <br>
+    Omar Nabil
+  </div>
+  <div>
+    <a href="https://github.com/KhaledBadr07">
+      <img src="https://github.com/KhaledBadr07.png" width="100px" alt="@KhaledBadr07">
+    </a>
+    <br>
+    Khaled Badr
+  </div>
+  <div>
+    <a href="https://github.com/merna-abdelmoez">
+      <img src="https://github.com/merna-abdelmoez.png" width="100px" alt="@merna-abdelmoez">
+    </a>
+    <br>
+    Mirna Abdelmoez
+  </div>
 </div>
+
