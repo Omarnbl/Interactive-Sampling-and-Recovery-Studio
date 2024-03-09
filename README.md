@@ -29,34 +29,32 @@
 
 ## Team Members
 <div align="left">
-  <div style="display:flex;">
-    <div style="text-align:center; margin-right:20px;">
-      <a href="https://github.com/OmarEmad101">
-        <img src="https://github.com/OmarEmad101.png" width="100px" alt="@OmarEmad101">
-      </a>
-      <div>Omar Emad</div>
-    </div>
-    
-    <div style="text-align:center; margin-right:20px;">
-      <a href="https://github.com/Omarnbl">
-        <img src="https://github.com/Omarnbl.png" width="100px" alt="@Omarnbl">
-      </a>
-      <div>Omar Nabil</div>
-    </div>
-    
-    <div style="text-align:center; margin-right:20px;">
-      <a href="https://github.com/KhaledBadr07">
-        <img src="https://github.com/KhaledBadr07.png" width="100px" alt="@KhaledBadr07">
-      </a>
-      <div>Khaled Badr</div>
-    </div>
-    
-    <div style="text-align:center;">
-      <a href="https://github.com/merna-abdelmoez">
-        <img src="https://github.com/merna-abdelmoez.png" width="100px" alt="@merna-abdelmoez">
-      </a>
-      <div>Mirna Abdelmoez</div>
-    </div>
+  <div>
+    <a href="https://github.com/OmarEmad101">
+      <img src="https://github.com/OmarEmad101.png" width="100px" alt="@OmarEmad101">
+    </a>
+    <div>Omar Emad</div>
+  </div>
+  
+  <div>
+    <a href="https://github.com/Omarnbl">
+      <img src="https://github.com/Omarnbl.png" width="100px" alt="@Omarnbl">
+    </a>
+    <div>Omar Nabil</div>
+  </div>
+  
+  <div>
+    <a href="https://github.com/KhaledBadr07">
+      <img src="https://github.com/KhaledBadr07.png" width="100px" alt="@KhaledBadr07">
+    </a>
+    <div>Khaled Badr</div>
+  </div>
+  
+  <div>
+    <a href="https://github.com/merna-abdelmoez">
+      <img src="https://github.com/merna-abdelmoez.png" width="100px" alt="@merna-abdelmoez">
+    </a>
+    <div>Mirna Abdelmoez</div>
   </div>
 </div>
 
